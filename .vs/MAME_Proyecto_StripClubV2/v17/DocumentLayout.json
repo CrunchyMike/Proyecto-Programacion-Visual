@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|c:\\users\\mikes\\onedrive\\documentos\\vs2022 programas\\mame_proyecto_stripclubv2\\datoscompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|solutionrelative:datoscompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|c:\\users\\mikes\\onedrive\\documentos\\vs2022 programas\\mame_proyecto_stripclubv2\\conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|solutionrelative:conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\frmpantallainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EB7176-FFAD-4B1F-B401-84F562A8F031}|MAME_Proyecto_StripClubV2.csproj|solutionrelative:frmpantallainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosCompartidos.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\DatosCompartidos.cs",
+              "RelativeDocumentMoniker": "DatosCompartidos.cs",
+              "ToolTip": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\DatosCompartidos.cs",
+              "RelativeToolTip": "DatosCompartidos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T22:35:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionMySQL.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\ConexionMySQL.cs",
+              "RelativeDocumentMoniker": "ConexionMySQL.cs",
+              "ToolTip": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\ConexionMySQL.cs",
+              "RelativeToolTip": "ConexionMySQL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:51:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPantallaInicial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\FrmPantallaInicial.cs",
+              "RelativeDocumentMoniker": "FrmPantallaInicial.cs",
+              "ToolTip": "C:\\Users\\mikes\\OneDrive\\Documentos\\VS2022 Programas\\MAME_Proyecto_StripClubV2\\FrmPantallaInicial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPantallaInicial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:32:35.664Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
